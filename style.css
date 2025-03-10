@@ -29,12 +29,12 @@ input {
 #btn {
   border: none;
   text-align: center;
-  width: calc(100% - 20px);
+  width: 100%;
   padding: 10px;
   color: white;
   font-weight: 600;
   font-size: 20px;
-  background-color: green;
+  background-color: lightgreen;
   cursor: pointer;
   margin: 10px 0;
   text-transform: uppercase;
